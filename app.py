@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Ameeth and Teams first website at Regent Business School")
+st.title("Ameeth's first website at Regent Business School")
 
 st.write("Welcome to my website!")
 
