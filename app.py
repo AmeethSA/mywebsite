@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.title("My first website")
+st.title("Ameeths First website at Regent Business School")
